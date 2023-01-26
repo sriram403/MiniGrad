@@ -9,3 +9,4 @@ Gradient Descent Algo🧨 from scratch🔨 literally📃
 
 **What are you waiting for Come In**
 
+Look into the `MicroGrad_Video.ipynb` Notebook
